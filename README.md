@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rennyhoang
 - 👀 I’m interested in self hosting everything
-- 🌱 I’m currently learning about docker containers
+- 🌱 I’m currently learning about rust and typescript
 - 📫 email me: renny@rennyhoang.com
 
 <!---
